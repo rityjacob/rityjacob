@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rity Abraham Jacob</h1>
-<h3 align="center">Aspiring Cloud Analyst</h3>
+<h3 align="center">Aspiring Cloud Analyst | 2 years of QA Experience</h3>
 
 - 🌱 I’m currently learning **Cloud Operations**
 
