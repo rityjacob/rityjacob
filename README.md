@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rity Abraham Jacob</h1>
-<h3 align="center">Aspiring DevOps Engineer | 2 years of QA Experience</h3>
+<h3 align="center">Aspiring SDET | 2 years of QA Experience</h3>
+
 
 - 🌱 I’m currently learning **Cloud Operations**
 
