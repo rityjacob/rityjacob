@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Cloud Operations**
 
-- 📫 How to reach me **rityjacob@gmail.com**
+- 📫 How to reach me **rityabraham@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
